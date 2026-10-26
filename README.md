@@ -1,4 +1,4 @@
-# Interpretable machine learning for fatal occupational injuries
+# Explainable machine learning for fatal occupational injuries
 
 Code accompanying:
 
