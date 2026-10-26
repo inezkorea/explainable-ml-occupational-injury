@@ -1,0 +1,40 @@
+feature,mean_abs_shap,mean_shap_when_present,direction
+Body part: Hand/finger,1.0732646,-2.036287307739258,risk down
+Occupation: Care/personal service,0.305039,0.8266096711158752,risk up
+Body part: Upper limb,0.19284609,-1.1477882862091064,risk down
+Body part: Lower limb,0.16744424,-1.1299681663513184,risk down
+Injury type: Other,0.1668355,0.4333433508872986,risk up
+Claim year,0.16204107,,continuous
+Body part: Head,0.1401687,3.0995395183563232,risk up
+Nationality: Korean-Chinese,0.1145588,0.07020008563995361,risk up
+Industry: Manufacturing,0.114151545,0.11191294342279434,risk up
+Body part: Foot/toe,0.10619803,-0.7591152191162109,risk down
+Injury type: Fracture,0.100410804,-0.15104970335960388,risk down
+Industry: Service,0.06717346,-0.06987352669239044,risk down
+Body part: Trunk,0.06616728,0.5496520400047302,risk up
+Body part: Multiple regions,0.06589161,1.3102327585220337,risk up
+Body part: Other,0.06044365,-0.12637245655059814,risk down
+Age: 46-53,0.043691736,-0.08356082439422607,risk down
+Occupation: Office,0.042169206,-0.18966858088970184,risk down
+Occupation: Elementary,0.033221055,-0.027843257412314415,risk down
+Injury type: Soft tissue,0.029402144,0.22371689975261688,risk up
+Age: 37-45,0.02876415,0.07437453418970108,risk up
+Injury type: Burn,0.023252245,0.10515185445547104,risk up
+Occupation: Cooking/food service,0.017861513,0.017167992889881134,risk up
+Age: 54+,0.017663158,-0.018422052264213562,risk down
+Age: 29-36,0.010576317,-0.008617815561592579,risk down
+Occupation: Technical,0.010542024,0.11643587052822113,risk up
+Injury type: Crush,0.00815195,-0.031137995421886444,risk down
+Nationality: Chinese,0.006204726,-0.02029113844037056,risk down
+Age: 14-28,0.0,0.0,risk down
+Nationality: Vietnamese,0.0,0.0,risk down
+Industry: Construction,0.0,0.0,risk down
+Industry: Other,0.0,0.0,risk down
+Occupation: Machine operation,0.0,0.0,risk down
+Industry: Pharmaceutical manufacturing,0.0,0.0,risk down
+Nationality: Sri Lankan,0.0,0.0,risk down
+Nationality: Other,0.0,0.0,risk down
+Nationality: Uzbekistani,0.0,0.0,risk down
+Injury type: Amputation,0.0,0.0,risk down
+Body part: Whole body,0.0,0.0,risk down
+Injury type: Open wound,0.0,0.0,risk down

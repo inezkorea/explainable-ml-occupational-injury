@@ -1,0 +1,42 @@
+feature,mean_abs_shap,mean_shap_when_present,direction
+Body part: Hand/finger,0.80665517,-1.4956262111663818,risk down
+Body part: Head,0.23824544,3.3422656059265137,risk up
+Body part: Other,0.17517981,0.8163682818412781,risk up
+Occupation: Technical,0.1319278,0.33066365122795105,risk up
+Body part: Lower limb,0.12629727,-0.9626846313476562,risk down
+Body part: Foot/toe,0.12343056,-1.0542594194412231,risk down
+Body part: Upper limb,0.12128655,-1.1409380435943604,risk down
+Injury type: Other,0.112273574,0.29523715376853943,risk up
+Body part: Multiple regions,0.10251916,2.306471824645996,risk up
+Industry: Construction,0.092647925,0.18052487075328827,risk up
+Gender: Female,0.08210858,-0.2877042889595032,risk down
+Claim year,0.07942088,,continuous
+Body part: Trunk,0.054846797,0.38353684544563293,risk up
+Injury type: Fracture,0.054771397,-0.0027340503875166178,risk down
+Body part: Whole body,0.05038191,4.700169563293457,risk up
+Nationality: Other,0.03741253,0.0673936977982521,risk up
+Injury type: Crush,0.035683498,0.09657935053110123,risk up
+Injury type: Amputation,0.035126332,0.1029314398765564,risk up
+Industry: Service,0.032815695,-0.12163371592760086,risk down
+Age: 37-45,0.032481782,0.0014965580776333809,risk up
+Injury type: Burn,0.03133405,-0.2682681381702423,risk down
+Nationality: Vietnamese,0.028317073,0.19271120429039001,risk up
+Injury type: Open wound,0.027239557,-0.09519785642623901,risk down
+Occupation: Care/personal service,0.025874747,0.46442991495132446,risk up
+Injury type: Soft tissue,0.02453075,0.12370669841766357,risk up
+Age: 29-36,0.024182651,-0.021509084850549698,risk down
+Nationality: Chinese,0.01935493,-0.03900882601737976,risk down
+Occupation: Elementary,0.0165298,-0.0021006229799240828,risk down
+Nationality: Sri Lankan,0.014101075,0.18165087699890137,risk up
+Age: 54+,0.013850381,0.00596842635422945,risk up
+Age: 46-53,0.013512547,-0.008817772381007671,risk down
+Nationality: Korean-Chinese,0.012858272,0.0011444665724411607,risk up
+Industry: Manufacturing,0.008069177,0.0007612382178194821,risk up
+Industry: Other,0.007344047,0.10695052891969681,risk up
+Occupation: Office,0.006796258,-0.022760683670639992,risk down
+Occupation: Machine operation,0.0053729652,0.025994570925831795,risk up
+Age: 14-28,0.003917793,0.0020598580595105886,risk up
+Nationality: Uzbekistani,0.0018311538,0.023018481209874153,risk up
+Gender: Male,0.0,0.0,risk down
+Industry: Pharmaceutical manufacturing,0.0,0.0,risk down
+Occupation: Cooking/food service,0.0,0.0,risk down

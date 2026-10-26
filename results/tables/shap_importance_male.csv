@@ -1,0 +1,40 @@
+feature,mean_abs_shap,mean_shap_when_present,direction
+Body part: Hand/finger,0.7107585,-1.313349962234497,risk down
+Body part: Head,0.25562987,3.5187184810638428,risk up
+Body part: Other,0.21569347,1.0456057786941528,risk up
+Occupation: Technical,0.12106437,0.28697964549064636,risk up
+Body part: Multiple regions,0.1166176,2.596252202987671,risk up
+Body part: Foot/toe,0.11313932,-0.966720700263977,risk down
+Injury type: Other,0.09522258,0.2562377452850342,risk up
+Industry: Construction,0.09326483,0.168512761592865,risk up
+Body part: Lower limb,0.091239356,-0.7089147567749023,risk down
+Body part: Upper limb,0.08191666,-0.854500412940979,risk down
+Claim year,0.07580843,,continuous
+Body part: Trunk,0.07267675,0.5117154121398926,risk up
+Body part: Whole body,0.06452715,4.458845138549805,risk up
+Injury type: Fracture,0.062041298,-0.036275893449783325,risk down
+Nationality: Other,0.042236168,0.07298769801855087,risk up
+Nationality: Vietnamese,0.034019563,0.22845742106437683,risk up
+Injury type: Crush,0.03165572,0.08922320604324341,risk up
+Injury type: Amputation,0.029586747,0.0696108341217041,risk up
+Injury type: Burn,0.028945593,-0.31508442759513855,risk down
+Injury type: Open wound,0.02841868,-0.1523551046848297,risk down
+Age: 37-45,0.028194278,0.047023430466651917,risk up
+Injury type: Soft tissue,0.02368864,0.08464256674051285,risk up
+Occupation: Elementary,0.023397809,-0.02167276106774807,risk down
+Industry: Service,0.018210629,-0.07295645028352737,risk down
+Age: 29-36,0.015484402,-0.005183188710361719,risk down
+Age: 54+,0.013490772,0.027053119614720345,risk up
+Nationality: Sri Lankan,0.0132001275,0.15942132472991943,risk up
+Age: 14-28,0.012498752,0.031092315912246704,risk up
+Age: 46-53,0.012183745,-0.013067006133496761,risk down
+Nationality: Korean-Chinese,0.010632808,0.0021776780486106873,risk up
+Occupation: Office,0.008158926,-0.02895551547408104,risk down
+Industry: Other,0.007845763,0.10386426746845245,risk up
+Industry: Manufacturing,0.0066698706,-0.0019021437037736177,risk down
+Nationality: Chinese,0.0028840029,0.0047410475090146065,risk up
+Occupation: Machine operation,0.0027613759,0.012272038497030735,risk up
+Industry: Pharmaceutical manufacturing,0.00087460736,-0.08171238750219345,risk down
+Nationality: Uzbekistani,0.0006110178,0.004889165982604027,risk up
+Occupation: Care/personal service,0.0,0.0,risk down
+Occupation: Cooking/food service,0.0,0.0,risk down

@@ -1,0 +1,12 @@
+,female,female,male,male
+,feature,direction,feature,direction
+1,Body part: Hand/finger,risk down,Body part: Hand/finger,risk down
+2,Occupation: Care/personal service,risk up,Body part: Head,risk up
+3,Body part: Upper limb,risk down,Body part: Other,risk up
+4,Body part: Lower limb,risk down,Occupation: Technical,risk up
+5,Injury type: Other,risk up,Body part: Multiple regions,risk up
+6,Claim year,continuous,Body part: Foot/toe,risk down
+7,Body part: Head,risk up,Injury type: Other,risk up
+8,Nationality: Korean-Chinese,risk up,Industry: Construction,risk up
+9,Industry: Manufacturing,risk up,Body part: Lower limb,risk down
+10,Body part: Foot/toe,risk down,Body part: Upper limb,risk down

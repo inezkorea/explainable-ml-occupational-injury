@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Interpretable machine learning for fatal occupational injuries"
+authors:
+  - family-names: Lee
+    given-names: Ju-Yeun
+    orcid: "https://orcid.org/0000-0001-7348-3240"
+repository-code: "https://github.com/inezkorea/interpretable-ml-occupational-injury"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Characteristics of fatal occupational injuries in migrant workers in South Korea: A machine learning study"
+  authors:
+    - family-names: Lee
+      given-names: Ju-Yeun
+      orcid: "https://orcid.org/0000-0001-7348-3240"
+    - family-names: Lee
+      given-names: Woojoo
+    - family-names: Cho
+      given-names: Sung-il
+  journal: "Heliyon"
+  volume: 9
+  issue: 9
+  start: e20138
+  year: 2023
+  doi: "10.1016/j.heliyon.2023.e20138"

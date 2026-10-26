@@ -1,0 +1,16 @@
+feature_1,feature_2,mean_abs_interaction
+Body part: Head,Injury type: Fracture,0.07986126
+Gender: Female,Body part: Hand/finger,0.046497267
+Body part: Hand/finger,Injury type: Fracture,0.038736787
+Body part: Hand/finger,Injury type: Other,0.037730437
+Claim year,Body part: Hand/finger,0.037393108
+Occupation: Technical,Body part: Hand/finger,0.035198316
+Gender: Female,Body part: Head,0.03281728
+Body part: Head,Injury type: Crush,0.02973622
+Body part: Other,Injury type: Fracture,0.025456414
+Body part: Whole body,Injury type: Fracture,0.02540359
+Body part: Head,Injury type: Open wound,0.024056463
+Nationality: Other,Body part: Hand/finger,0.022414668
+Body part: Hand/finger,Injury type: Soft tissue,0.022129137
+Body part: Lower limb,Injury type: Amputation,0.022065936
+Age: 29-36,Body part: Hand/finger,0.018131778

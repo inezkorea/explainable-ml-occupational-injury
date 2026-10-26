@@ -1,0 +1,4 @@
+model,auroc,sensitivity,specificity,threshold,cv_auroc_mean,cv_auroc_sd
+Logistic regression,0.939,0.866,0.894,0.017,,
+Random forest,0.93,0.857,0.889,0.018,,
+XGBoost,0.933,0.857,0.889,0.014,0.942,0.014

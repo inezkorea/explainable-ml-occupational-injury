@@ -1,0 +1,5 @@
+feature,planted_effect,mean_shap_female,mean_shap_male
+Occupation: Care/personal service,female only,0.827,0.0
+Industry: Pharmaceutical manufacturing,female only,0.0,-0.082
+Body part: Trunk,stronger in female,0.55,0.512
+Injury type: Amputation,male only,0.0,0.07
